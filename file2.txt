@@ -1,0 +1,2 @@
+1st new changes in file2
+1st change from feature branch in file2
